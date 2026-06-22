@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi there, I'm Fatima Malik 👋
 
-<!--
-**fatimamaliks24/fatimamaliks24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Web Development, Artificial Intelligence, and Software Development
+
+🌱 Currently learning:
+- HTML, CSS, JavaScript
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+
+🚀 I enjoy building projects that solve real-world problems and help me improve my technical skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C++
+- JavaScript
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Canva
+- Figma
+
+---
+
+## 📌 Current Goals
+
+- Build more web development projects
+- Improve problem-solving skills
+- Learn advanced JavaScript
+- Explore AI and Machine Learning
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Personal Website
+A simple portfolio website built with HTML and CSS.
+
+### 🤖 AI & ML Projects
+Exploring machine learning concepts and practical implementations.
+
+### 💻 Web Development Projects
+Responsive websites and front-end applications.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimamaliks24&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimamaliks24&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/fatimamaliks24
+
+---
+
+⭐ Thanks for visiting my profile!
